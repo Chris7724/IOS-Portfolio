@@ -9,5 +9,5 @@
 #### During my time in AP Computer Science Principles I used block coding to create an app similar to Pong where you would shoot a ball at a moving line and attpemp to hit it. When it was hit it would become smaller, so the next time you tried to hit it, it would be more difficult. The game would reset the size of the line when the ball missed it.
 # 
 ### During the AP Java Class I learned the fundamentals to programming and I created many prorgrams both individually and as a group. 
-# During cybersecurity I worked with multiple programming laguages such as Python and HTML. I created programms as a group and individually.
+### During cybersecurity I worked with multiple programming laguages such as Python and HTML. I created programms as a group and individually.
 
