@@ -10,5 +10,5 @@
 # 
 ### During the AP Java Class I learned the fundamentals to programming and I created many prorgrams both individually and as a group. 
 #
-### During cybersecurity I worked with multiple programming laguages such as Python and HTML. I created programms as a group and individually.
+### During cybersecurity I worked with multiple programming laguages such as Python and HTML. I created programms as a group and individually. I also learned how to navigate the Terminal on a Mac computer.
 
